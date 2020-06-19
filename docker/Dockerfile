@@ -1,2 +1,2 @@
-FROM Jupyter/minimal-notebook
+FROM jupyter/minimal-notebook
 RUN pip install matplotlib 
